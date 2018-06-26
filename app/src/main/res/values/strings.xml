@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CiberDictionary</string>
+    <string name="enterWordHint">Type your word</string>
+    <string name="lookUpButton">Buscar</string>
+    <string name="typeString">Type: </string>
+    <string name="definitionString">Definition: </string>
+    <string name="exampleString">Example: </string>
+    <string name="goLocationString">Ver Mapa</string>
+    <string name="editString">Update</string>
+    <string name="deleteString">Delete</string>
+    <string name="webString">Get from Web</string>
+    <string name="clearfieldsString">Clear Fields</string>
+    <string name="clearDBString">Clear DB</string>
+    <string name="title_activity_map">Map</string>
+</resources>
